@@ -65,7 +65,7 @@ Rodriguez Ricra, Emhir Carlo Andre ->
 
 
 
-Roman Palomino, Diego Osvaldo -> 
+Roman Palomino, Diego Osvaldo -> [https://github.com/DiegoRomanP/ds-lab-1-gestion/edit/main/registro_estudiantes.md](https://github.com/DiegoRomanP/lab-colaboracion-Roman-Palomino)
 
 
 
