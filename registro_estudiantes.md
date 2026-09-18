@@ -30,7 +30,7 @@ Izquierdo Ayllon, Khalid Zaid ->
 
 
 
-La Torre Urbina, Brian Jair -> 
+La Torre Urbina, Brian Jair -> https://github.com/brian-latorre/lab-colaboracion-latorre-urbina.git
 
 
 
