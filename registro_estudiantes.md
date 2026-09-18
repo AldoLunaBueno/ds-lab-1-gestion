@@ -77,7 +77,7 @@ Torres Fuero, Mateo Lorenzo -> https://github.com/MateoTorresFuero/lab-colaborac
 
 
 
-Valverde Gonzales, Yoshua Natanael -> 
+Valverde Gonzales, Yoshua Natanael -> https://github.com/kdefsys/lab-colaboracion-valverde-gonzales
 
 
 
