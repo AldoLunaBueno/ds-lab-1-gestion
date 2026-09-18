@@ -69,7 +69,7 @@ Roman Palomino, Diego Osvaldo -> [https://github.com/DiegoRomanP/ds-lab-1-gestio
 
 
 
-Rondan Vilca, Jefferson Jhonny -> 
+Rondan Vilca, Jefferson Jhonny -> https://github.com/arielrondanv-code/lab-colaboracion-rondan-vilca
 
 
 
