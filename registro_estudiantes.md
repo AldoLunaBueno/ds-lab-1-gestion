@@ -33,7 +33,7 @@ La Torre Urbina, Brian Jair -> https://github.com/brian-latorre/lab-colaboracion
 
 
 
-Leiva Ignacio, Jhan Fernando -> 
+Leiva Ignacio, Jhan Fernando -> https://github.com/jignacio17/lab-colaboracion-leiva-ignacio.git
 
 
 
