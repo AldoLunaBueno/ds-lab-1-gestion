@@ -6,8 +6,7 @@ Alvinagorta Huapaya, Angel Andres ->
 
 
 
-Cadillo Gutierrez, Victor Hugo -> 
-
+Cadillo Gutierrez, Victor Hugo -> https://github.com/vcadillog/lab-colaboracion-cadillo-gutierrez
 
 
 Ccahuana Sosa, Omar Ailton -> 
