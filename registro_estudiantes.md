@@ -54,7 +54,7 @@ Quintanilla Quispe, Dylan Leonardo ->
 
 
 
-Reyes Baldeon, Axel Alberto -> 
+Reyes Baldeon, Axel Alberto -> https://github.com/AxelNick/lab-colaboracion-Reyes-Baldeon.git
 
 
 
