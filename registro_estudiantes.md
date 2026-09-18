@@ -2,7 +2,7 @@ Aguilar Vitancio, Victor Manuel -> https://github.com/Ator512/lab-colaboracion-A
 
 
 
-Alvinagorta Huapaya, Angel Andres -> 
+Alvinagorta Huapaya, Angel Andres -> https://github.com/AngelAlvinagorta/lab-colaboracion-Alvinagorta-Huapaya
 
 
 
