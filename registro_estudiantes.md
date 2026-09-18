@@ -6,7 +6,7 @@ Alvinagorta Huapaya, Angel Andres ->
 
 
 
-Cadillo Gutierrez, Victor Hugo -> 
+Cadillo Gutierrez, Victor Hugo -> https://github.com/vcadillog/ds-lab-1-gestion
 
 
 
