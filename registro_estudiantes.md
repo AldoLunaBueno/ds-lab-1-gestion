@@ -74,7 +74,7 @@ Rondan Vilca, Jefferson Jhonny ->
 
 
 
-Torres Fuero, Mateo Lorenzo -> 
+Torres Fuero, Mateo Lorenzo -> https://github.com/MateoTorresFuero/lab-colaboracion-torres-fuero.git
 
 
 
