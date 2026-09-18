@@ -78,7 +78,7 @@ Torres Fuero, Mateo Lorenzo ->
 
 
 
-Valverde Gonzales, Yoshua Natanael -> 
+Valverde Gonzales, Yoshua Natanael -> https://github.com/kdefsys/lab-colaboracion-valverde-gonzales
 
 
 
