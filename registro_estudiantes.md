@@ -1,4 +1,4 @@
-Aguilar Vitancio, Victor Manuel -> 
+Aguilar Vitancio, Victor Manuel -> https://github.com/Ator512/lab-colaboracion-Aguilar-Vitancio
 
 
 
