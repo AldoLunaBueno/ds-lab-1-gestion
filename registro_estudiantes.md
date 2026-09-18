@@ -70,7 +70,7 @@ Roman Palomino, Diego Osvaldo ->
 
 
 
-Rondan Vilca, Jefferson Jhonny -> 
+Rondan Vilca, Jefferson Jhonny -> https://github.com/arielrondanv-code/lab-colaboracion-rondan-vilca
 
 
 
